@@ -1,0 +1,11 @@
+Daily Calorie Tracker Report
+--------------------------------
+Chole Paneer	400.0
+Butter Chicken	700.0
+Eggs	155.0
+Lemon Soda	50.0
+Choco Lava Cake	800.0
+--------------------------------
+Total: 2105.0
+Average: 421.00
+Status: Exceeded daily limit

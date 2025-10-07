@@ -1,0 +1,9 @@
+Daily Calorie Tracker Report
+--------------------------------
+Chole Bhature	472.0
+Rajma Chawal	200.0
+Coffee	300.0
+--------------------------------
+Total: 972.0
+Average: 324.00
+Status: Within daily limit

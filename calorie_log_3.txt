@@ -1,0 +1,9 @@
+Daily Calorie Tracker Report
+--------------------------------
+Curry Rice	500.0
+Fried Salmon	700.0
+Spinach Sandwich	300.0
+--------------------------------
+Total: 1500.0
+Average: 500.00
+Status: Within daily limit
